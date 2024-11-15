@@ -15,3 +15,6 @@ Director - Name of the Director
 Star1,Star2,Star3,Star4 - Name of the Stars
 No_of_votes - Total number of votes
 Gross - Money earned by that movie
+
+
+Recall : Taux de vrais positifs (true positif / true positif + false positif)
